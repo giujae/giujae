@@ -10,8 +10,8 @@
 ## ⛏ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=JavaScript&logoColor=white)
-![C#](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=C#&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-3776AB?style=flat-square&logo=JavaScript&logoColor=white)
+![C#](https://img.shields.io/badge/Csharp-3776AB?style=flat-square&logo=Csharp&logoColor=white) 
 ![Unity](https://img.shields.io/badge/-Unity-000000?&style=flat-square&logo=unity&logoColor=white) 
 
 ## 🖍 Careers
