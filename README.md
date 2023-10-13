@@ -9,7 +9,7 @@
 
 ## ⛏ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white) 
 ![Unity](https://img.shields.io/badge/-Unity-000000?&style=flat-square&logo=unity&logoColor=white) 
 ![Autodesk](https://img.shields.io/badge/Autodesk-0696D7?&style=flat-square&logo=Autodesk&logoColor=white)
 
