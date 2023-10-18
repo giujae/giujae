@@ -27,3 +27,7 @@
 ## 📚 Education
 
 - **SSAFY** - 삼성 청년 SW 아카데미 9기 (2023.01. ~ ing) [:link:](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp)
+
+- ## 📚 Awards
+
+- **SSAFY** - 삼성전자주식회사삼성 청년 SW아카데미 특화 프로젝트 1등 우수팀으로 선정 (트랙: 메타버스)
