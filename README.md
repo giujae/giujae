@@ -17,7 +17,7 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=JavaScript&logoColor=white)
 
 ![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=JavaScript&logoColor=white)
-![Django](https://img.shields.io/badge/092E20-61DAFB?style=flat-square&logo=JavaScript&logoColor=white)
+![Django](https://img.shields.io/badge/Django-61DAFB?style=flat-square&logo=JavaScript&logoColor=white)
 
 
 ## 🖍 Careers
