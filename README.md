@@ -1,4 +1,3 @@
-<h2>Hi~good to see you! <img src="https://media.tenor.com/bw-uGL8d998AAAAi/peepo-cry.gif" width="30" /></h2>
 
 [**새로운 도전**](#)을 두려워 하지 않고 [**포기**](#)하지 않는 **정재욱**입니다.  
 [**목표**](#)를 향해 [**멈추지**](#) 않는 개발자로 성장하기 위해 노력중입니다.
