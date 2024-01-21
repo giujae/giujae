@@ -26,7 +26,7 @@
 
 ## 📚 Education
 
-- **SSAFY** - 삼성 청년 SW 아카데미 9기 (2023.01. ~ ing) [:link:](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp)
+- **SSAFY** - 삼성 청년 SW 아카데미 9기 (2023.01. ~ 2024.01) [:link:](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp)
 
 ## :trophy: Awards
 
