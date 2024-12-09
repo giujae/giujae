@@ -12,7 +12,7 @@
 &nbsp; &nbsp; &nbsp; &nbsp; ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white) 
 
 ![Unity](https://img.shields.io/badge/-Unity-000000?&style=flat-square&logo=unity&logoColor=white) 
-&nbsp; ![C#](https://img.shields.io/badge/-Csharp-99CC00?style=flat-square&logo=Csharp&logoColor=white) 
+&nbsp; ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white)
 
 &nbsp; &nbsp;![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
 &nbsp; ![Django](https://img.shields.io/badge/Django-61DAFB?style=flat-square&logo=Django&logoColor=white)
